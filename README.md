@@ -8,6 +8,5 @@ Dit ben ik
 ![a picture of me](portretfotopatrick.jpg)
 <br>
 <br>
-Dit is de link naar zuyd.nl: 
-<br>
-(https://www.zuyd.nl)
+Dit is de link naar [zuyd.nl](https://www.zuyd.nl)
+
